@@ -110,12 +110,14 @@ This project is for educational and demonstration purposes only. It does not pro
 
 ## Screenshots
 
-Add screenshots here:
+### Landing Page
+![Landing Page](screenshots/Screenshot1.png)
 
-- Landing page
-- Patient Intelligence Dashboard
-- Source-grounded Q&A
-- Source chunks view
+### Patient Intelligence Dashboard
+![Patient Intelligence Dashboard](screenshots/Screenshot2.png)
+
+### Source-Grounded Q&A
+![Source-Grounded Q&A](screenshots/Screenshot3.png)
 
 ## Demo Video
 
