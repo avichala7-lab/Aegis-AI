@@ -121,7 +121,8 @@ This project is for educational and demonstration purposes only. It does not pro
 
 ## Demo Video
 
-Demo video link: `TBD`
+- [Aegis AI Demo Part 1](https://www.loom.com/share/4095acc3b1f546f0a096c71aa6eab50b)
+- [Aegis AI Demo Part 2](https://www.loom.com/share/78643d84e42b4ecdbeaafdb1b9a6a22e)
 
 ## Project Files
 
